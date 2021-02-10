@@ -2,8 +2,8 @@
 Analysing Health care system in France, in terms of exceeding fees and density of physicians in 2018.
 
 <p align-"center">
-<img src="./Images/intro.jpg" alt="Health Insurance" width="500">
-                                                      </p>                                                     
+<img src="./Images/intro.jpg" alt="Health Insurance Analytics" width="500">
+</p>                                                     
                                                       
 ## Analysis Question 
 
