@@ -8,6 +8,8 @@ Analysing Health care system in France, in terms of exceeding fees and density o
 ## Analysis Question 
 Establishing link between Density and exceeding fees of physicians; Analysis of Trends & Correlation
 
+*Process* : Data cleaning/wrangling, Plotting graphs (Barplot, Scatterplot), Interpretation of results. <Python>
+
 ## Data Collection:
 Two datasets were extracted from the sources: 
 - Amos (Assurance Maladie offre de soins)
